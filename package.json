@@ -1,5 +1,5 @@
 {
-  "name": "random-id",
+  "name": "@chaitanyapotti/random-id",
   "version": "1.0.3",
   "description": "a random id generator",
   "main": "index.js",
